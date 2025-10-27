@@ -472,7 +472,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "13ad344d-4cf3-42bf-9e62-6586ff4f58fb",
+          "title": "server",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761560947281",
