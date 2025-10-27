@@ -480,6 +480,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "dc64fa66-1190-46cb-9cb6-850fe92d13b2",
+          "title": "nvr",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
